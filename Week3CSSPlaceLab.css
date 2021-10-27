@@ -1,0 +1,74 @@
+/*  
+
+  
+
+*/  
+
+body{  
+
+  
+
+background:blue; 
+background-image: url('https://images.unsplash.com/photo-1569982175971-d92b01cf8694?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80');
+
+  
+}  
+
+h1{ 
+
+	text-align:center; 
+	text-decoration: underline; 
+	text-shadow: 0 0 3px #FF0000;
+} 
+
+.apple{ 
+
+	text-align: center; 
+	border-style: solid; 
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF ;
+}
+
+
+.snake{ 
+
+	float: left; 
+	border-style: solid; 
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF ;
+
+} 
+
+.green{ 
+
+	float: right; 
+	border-style: solid; 
+	text-shadow:0 0 3px #FF0000, 0 0 5px #0000FF ;
+} 
+
+.TTA{ 
+
+		position: static; 
+		top: 20px;
+		right: 90px;
+		z-index: 1; 
+		display: block;
+		margin-left: auto; 
+		margin-right: auto; 
+		
+		
+} 
+.VVA{ 
+	text-align: center;
+	text-decoration: bold;
+	border-style: double; 
+	color:yellow; 
+	
+}
+
+h6{
+	text-align: left;
+	color: white; 
+	text-decoration: underline;
+	
+	
+	
+} 
