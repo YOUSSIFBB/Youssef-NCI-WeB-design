@@ -1,0 +1,65 @@
+/* week 4 media */ 
+
+body{ 
+	background-color: #CCCCFF; 
+	background-image: 
+} 
+
+
+
+.header{ 
+	text-align:center;
+	background-color:#CCCCFF;
+	padding: 9px; 
+	font-size: 25px; 
+	border-style:hidden;
+	margin:0;
+	color:white;
+	text-decoration: underline;
+	
+}
+	
+.sidebar{
+		height: 100%;
+		position:sticy; 
+		z-index: 1; 
+		background-color:#40E0D0; 
+		width:150px;
+		
+		
+} 
+.sidebar a{ 
+			padding: 10px; 
+			font-size: 25px; 
+			display:inline;
+}
+
+.content{ 
+
+		padding:0px 16px;
+		margin-left: 150px; 
+		
+}
+
+.row{ 
+		border: hidden;
+} 
+.col-sm-4{ 
+			border:solid; 
+}
+
+.et-padding{
+	margin-top:10px !important;
+}
+
+.CCA{ 
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto
+}
+
+.card-body{ 
+			position: sticy;
+			
+			
+} 

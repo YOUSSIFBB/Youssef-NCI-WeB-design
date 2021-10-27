@@ -1,0 +1,84 @@
+/* 
+
+*/ 
+body{ 
+
+background:#FFEBCD;
+
+} 
+
+h1{ 
+		color:black; 
+		text-decoration:underline; 
+		text-align: left; 
+		text-shadow:2px 2px #FF0000;
+	
+} 
+h3{ 
+
+	text-shadow:0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+
+
+li>a{ 
+	color: brown; 
+}  
+
+.teal{ 
+		color:teal;
+}
+
+
+img.sml{ 
+
+	width: 150px; 
+	height: 160px; 
+	background-image:"BlueFlower.jpg";
+	background-repeat:no-repeat; 
+	background-attachment: fixed; 
+	background-position: center; 
+	
+	
+	
+} 
+
+
+		
+
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1559583985-c80d8ad9b29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMDY1OTc2fHxlbnwwfHx8fA%3D%3D&w=1000&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+div{ 
+	background-image: url('https://images3.content-hci.com/commimg/myhotcourses/blog/post/myhc_89683.jpg');
+	color: #E0FFFF; 
+	font-weight: bold;
+	font-size: 25px; 
+	font-family: 'Ephesis', cursive;
+	position: relative; 
+	top: 20px;
+	left: 100px 
+}
+
+
+.PPA{ 
+	 position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+
+h5{ 
+	color: white; 
+	text-decoration: underline; 
+	font-size: 25px;
+	
+}
+
+
+
